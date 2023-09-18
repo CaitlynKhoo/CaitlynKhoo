@@ -1,8 +1,8 @@
 <p align="center">
   <img src="https://media.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif">
 </p>
-<h1 align="center">Hi 👋, I'm Caitlyn Khoo</h1>
-<h3 align="center">Passionate software engineer, career changer, former finance business partner.</h3>
+<h1 align="center">Hi, I'm Caitlyn</h1>
+<h3 align="center">PASSIONATE SOFTWARE DEVELOPER | CAREER CHANGER | FORMER FINANCE BUSINESS PARTNER</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=caitlynkhoo&label=Profile%20views&color=0e75b6&style=flat" alt="caitlynkhoo" /> </p>
 
