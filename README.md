@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://media.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif](https://i.pinimg.com/1200x/8f/48/7c/8f487c4ac1e1e847e70f4a32536bc2be.jpg)">
+  <img src="https://i.pinimg.com/1200x/8f/48/7c/8f487c4ac1e1e847e70f4a32536bc2be.jpg">
 </p>
 <h1 align="center">Hi, I'm Caitlyn</h1>
 <h3 align="center">PASSIONATE SOFTWARE DEVELOPER | CAREER CHANGER | FORMER FINANCE BUSINESS PARTNER</h3>
