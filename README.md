@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.pinimg.com/1200x/8f/48/7c/8f487c4ac1e1e847e70f4a32536bc2be.jpg">
+  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 </p>
 <h1 align="center">Hi, I'm Caitlyn</h1>
 <h3 align="center">PASSIONATE SOFTWARE DEVELOPER | CAREER CHANGER | FORMER FINANCE BUSINESS PARTNER</h3>
