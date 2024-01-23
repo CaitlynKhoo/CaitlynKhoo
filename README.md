@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=caitlynkhoo&label=Profile%20views&color=0e75b6&style=flat" alt="caitlynkhoo" /> </p>
 
-- 🌱 I’m currently learning **React, TypeScript**
+- 🌱 I’m currently learning **Angular, C#**
 
 - 💬 Ask me about **MY STORY**
 
